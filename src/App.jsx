@@ -1,9 +1,11 @@
+import DynamicSearchFilter from "./components/DynamicSearchFilter"
+import './App.css';
 
 function App() {
 
   return (
     <>
-      <h2>React Practice</h2>
+      <DynamicSearchFilter />
     </>
   )
 }
