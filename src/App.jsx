@@ -1,13 +1,18 @@
-// import DynamicSearchFilter from "./components/DynamicSearchFilter"
 import './App.css';
-import Debouncing from './components/Debouncing';
+// import HOCDemoCode1 from './components/HOCDemoCode1';
+// import ReactForm from './components/ReactForm';
+
+// import DynamicSearchFilter from "./components/DynamicSearchFilter"
+// import Debouncing from './components/Debouncing';
 
 function App() {
 
   return (
     <>
       {/* <DynamicSearchFilter /> */}
-      <Debouncing />
+      {/* <Debouncing /> */}
+      {/* <ReactForm /> */}
+      {/* <HOCDemoCode1 /> */}
     </>
   )
 }
