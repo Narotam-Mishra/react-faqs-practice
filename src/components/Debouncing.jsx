@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react'
 import '../styles/utility.css';
 
 const Debouncing = () => {
-  const[pin, setPin] = useState();
+  const[pin, setPin] = useState('');
   const pinUrl = `https://api.postalpincode.in/pincode/`;
 
   useEffect(() => {
