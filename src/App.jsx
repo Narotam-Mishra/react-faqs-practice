@@ -19,7 +19,7 @@ function App() {
       {/* <UseReducerDemoExample1  /> */}
       {/* <ThrottledComponent /> */}
       {/* <DynamicSearch /> */}
-    </>
+      </>
   )
 }
 
