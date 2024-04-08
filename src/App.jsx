@@ -1,4 +1,5 @@
 import './App.css';
+// import JSObjectAsFolder from './components/JSObjectAsFolder';
 // import DynamicSearch from './components/DynamicSearch';
 // import ThrottledComponent from './components/ThrottledComponent';
 // import UseReducerDemoExample1  from './components/UseReducerDemoExample1';
@@ -19,6 +20,7 @@ function App() {
       {/* <UseReducerDemoExample1  /> */}
       {/* <ThrottledComponent /> */}
       {/* <DynamicSearch /> */}
+      {/* <JSObjectAsFolder /> */}
       </>
   )
 }
