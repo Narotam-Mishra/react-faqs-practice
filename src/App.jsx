@@ -1,4 +1,5 @@
 import './App.css';
+import StopWatch from './components/StopWatch';
 // import JSObjectAsFolder from './components/JSObjectAsFolder';
 // import DynamicSearch from './components/DynamicSearch';
 // import ThrottledComponent from './components/ThrottledComponent';
@@ -21,6 +22,7 @@ function App() {
       {/* <ThrottledComponent /> */}
       {/* <DynamicSearch /> */}
       {/* <JSObjectAsFolder /> */}
+      <StopWatch />
       </>
   )
 }
