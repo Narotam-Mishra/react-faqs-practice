@@ -1,5 +1,6 @@
 import './App.css';
-import APIDataHandling from './components/APIDataHandling';
+// import LoadingSpinnerCom from './components/LoadingSpinnerCom';
+// import APIDataHandling from './components/APIDataHandling';
 // import StopWatch from './components/StopWatch';
 // import JSObjectAsFolder from './components/JSObjectAsFolder';
 // import DynamicSearch from './components/DynamicSearch';
@@ -24,7 +25,8 @@ function App() {
       {/* <DynamicSearch /> */}
       {/* <JSObjectAsFolder /> */}
       {/* <StopWatch /> */}
-      <APIDataHandling />
+      {/* <APIDataHandling /> */}
+      {/* <LoadingSpinnerCom /> */}
       </>
   )
 }
