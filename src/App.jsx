@@ -1,4 +1,5 @@
 import './App.css';
+import TableUsers from './components/TableData';
 // import LoadingSpinnerCom from './components/LoadingSpinnerCom';
 // import APIDataHandling from './components/APIDataHandling';
 // import StopWatch from './components/StopWatch';
@@ -27,6 +28,7 @@ function App() {
       {/* <StopWatch /> */}
       {/* <APIDataHandling /> */}
       {/* <LoadingSpinnerCom /> */}
+      <TableUsers />
       </>
   )
 }
